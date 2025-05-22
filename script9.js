@@ -15,4 +15,3 @@ if (nums.length) {
 }
 */
 
-console.log();
